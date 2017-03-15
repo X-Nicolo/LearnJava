@@ -3815,3 +3815,25 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.core.net 4 0 2017-03-15 18:46:29.902
 !MESSAGE WinHttp.GetProxyForUrl for pac failed with error '²»ÄÜÏÂÔشúÀí·þÎñÆ÷×Զ¯ÅäÖ' #12167.
+
+!ENTRY org.tigris.subversion.clientadapter.javahl 1 0 2017-03-15 19:04:16.518
+!MESSAGE Failed to load JavaHL Library.
+These are the errors that were encountered:
+no libapr-1 in java.library.path
+no libapriconv-1 in java.library.path
+no libeay32 in java.library.path
+no ssleay32 in java.library.path
+no libaprutil-1 in java.library.path
+no libsasl in java.library.path
+no libsvn_subr-1 in java.library.path
+no libsvn_delta-1 in java.library.path
+no libsvn_diff-1 in java.library.path
+no libsvn_wc-1 in java.library.path
+no libsvn_fs-1 in java.library.path
+no libsvn_repos-1 in java.library.path
+no libsvn_ra-1 in java.library.path
+no libsvn_client-1 in java.library.path
+no libsvnjavahl-1 in java.library.path
+no svnjavahl-1 in java.library.path
+no svnjavahl in java.library.path
+java.library.path = D:\eclipse;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/asoft/Java/jdk1.8.0_91/bin/../jre/bin/server;C:/asoft/Java/jdk1.8.0_91/bin/../jre/bin;C:/asoft/Java/jdk1.8.0_91/bin/../jre/lib/amd64;C:\asoft\Python35\Lib\site-packages\django\bin;C:\asoft\Python35\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\asoft\Java\jdk1.8.0_91\bin;C:\Program Files\nodejs\;C:\asoft\MATLAB\runtime\win64;C:\asoft\MATLAB\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;C:\asoft\mre\v717\runtime\win32;C:\asoft\Java\jdk1.8.0_91\bin;C:\asoft\Python35\Lib\site-packages\django\bin;C:\asoft\Python35\;C:\Users\Nicolo\AppData\Roaming\npm;D:\eclipse;;.
