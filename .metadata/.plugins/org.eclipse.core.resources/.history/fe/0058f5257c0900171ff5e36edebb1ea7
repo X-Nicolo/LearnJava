@@ -1,0 +1,10 @@
+package day02;
+//switch语句
+public class Day02_06 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

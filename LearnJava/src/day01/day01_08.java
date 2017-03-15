@@ -5,7 +5,7 @@ public class day01_08 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 //		强制转换类型
-		int x = 4;
+		int x = 4;//
 		System.out.println(x);
 		x = 10;
 		System.out.println(x);
@@ -26,7 +26,16 @@ public class day01_08 {
 		 什么时候定义变量？
 		 当数据不确定的时候，需要对数据进行存储时，
 		 就定义一个变量来完成存储动作。
+		 
+		 
 		 */
+		//类型转换
+		int a = 5;
+		a =a + 6;
+		System.out.println(a);
+		System.out.println('a' + 1);//ACII
+		System.out.println((char)('a'+1));//强制转换类型
+		
 		
 		
 
