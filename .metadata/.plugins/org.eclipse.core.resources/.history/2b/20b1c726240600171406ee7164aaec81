@@ -1,0 +1,16 @@
+package control;
+
+public class DebugTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int [] ints =new int[20];
+		for (int i = 0; i < ints.length; i++) {
+			ints[i] = i+1;
+			System.out.println(i+1);
+			
+		}
+
+	}
+
+}
