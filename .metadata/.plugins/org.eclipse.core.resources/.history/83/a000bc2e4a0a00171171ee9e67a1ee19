@@ -1,0 +1,30 @@
+package day04;
+//折半查找
+/*
+ * */
+public class Day04_07 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int arr_0[] = {3,2,1,5,4,2,9};
+		System.out.println("----------[遍历查找]----------");
+		int index_0 = getIndex(arr_0,2);
+		System.out.println("index_0="+index_0);
+		System.out.println("----------[折半查找]----------");
+		int arr[]={2,4,5,7,19,32,45};
+		int index_1 = halfSearch(arr,32);
+		System.out.println("index_1="+index_1);
+		System.out.println("----------[折半的第二种方式]----------");
+		int index_2 = halfSearch_2(arr,19);
+		System.out.println("index_2="+index_2);
+		System.out.println("----------[插入数值]----------");
+		int index_3 = getIndex_2(arr,8);
+		System.out.println("index_3="+index_3);
+		System.out.println("----------[ex5]----------");
+		
+		System.out.println("Hello World!");
+
+
+	}
+
+}

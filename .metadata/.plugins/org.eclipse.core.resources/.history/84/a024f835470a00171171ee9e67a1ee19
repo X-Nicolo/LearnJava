@@ -1,0 +1,15 @@
+package day04;
+//选择排序
+/*
+数组：排序-选择排序
+需求：对给定数组进行排序{5,1,6,4,2,8,9}
+*/
+
+public class Day04_05 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

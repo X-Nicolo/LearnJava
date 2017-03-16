@@ -1,0 +1,13 @@
+package day04;
+//数组（冒泡排序）
+/*
+ 冒泡排序：相邻的两个元素进行比较，如果符合条件换位*/
+public class Day04_06 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+
+	}
+
+}
