@@ -1,0 +1,10 @@
+package day04;
+//数组遍历
+public class Day04_03 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

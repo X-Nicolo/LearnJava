@@ -1,0 +1,13 @@
+package day04;
+/*数组定义
+格式：元素类型[] 数组名 = new 元素类型[元素个数或数组长度]
+
+*/
+public class Day04_01 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

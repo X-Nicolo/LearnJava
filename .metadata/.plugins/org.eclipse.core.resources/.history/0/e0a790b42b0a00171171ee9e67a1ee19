@@ -1,0 +1,17 @@
+package day04;
+/*数组定义
+格式1：元素类型[] 数组名 = new 元素类型[元素个数或数组长度]
+示例：int[] arr = new int[5];
+格式2：元素类型[] 数组名 = new 元素类型[]{元素，元素，元素}；
+示例：int [] arr = new int[]{3,5,1,7};
+int[] arr = {3,5,1,7}
+
+*/
+public class Day04_01 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

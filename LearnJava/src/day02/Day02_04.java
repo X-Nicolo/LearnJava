@@ -1,6 +1,5 @@
 package day02;
 
-import sun.net.www.content.audio.x_aiff;
 
 //位运算符
 public class Day02_04 {

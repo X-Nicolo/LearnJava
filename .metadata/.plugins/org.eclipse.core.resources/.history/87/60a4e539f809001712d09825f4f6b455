@@ -1,0 +1,14 @@
+package day03;
+/*函数的重载
+ 重载的概念：在同一个类中，允许存在一个以上的同名函数，只要它们的参数个数或者参数类型不同即可
+ 重载的特定：与返回值类型无关，只看参数列表
+ 重载的好处：方便阅读，优化了程序设计。*/
+public class Day03_09 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+
+	}
+
+}

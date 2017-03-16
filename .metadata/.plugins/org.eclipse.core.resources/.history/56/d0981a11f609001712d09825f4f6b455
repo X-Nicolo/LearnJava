@@ -1,0 +1,19 @@
+package day03;
+/*函数练习
+1，定义一个功能，用于打印矩形
+2，定义一个打印99乘法表功能的函数
+*/
+
+
+public class Day03_08 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		getRectangle(4,5);
+		multiTable(9,9);
+
+
+	}
+	
+
+}

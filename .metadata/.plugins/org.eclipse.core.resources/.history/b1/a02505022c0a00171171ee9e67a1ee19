@@ -1,0 +1,10 @@
+package day04;
+//数组 静态初始化
+public class Day04_02 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

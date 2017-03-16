@@ -5,6 +5,7 @@ public class day02_02 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int x = 3;//把右边值赋值给左边
+		System.out.println(x);
 		//+=  -=  *=  /=  %=
 		
 		x+=4;//把左右两边的和付给左边 X = X + 4；
