@@ -44,7 +44,7 @@ class Person
 	}
 }
 
-class PersonDemo
+class Day05_02
 {
 	public static void main(String[] args)
 	{
