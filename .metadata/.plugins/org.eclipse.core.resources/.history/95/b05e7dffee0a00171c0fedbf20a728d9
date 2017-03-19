@@ -1,0 +1,10 @@
+package day05;
+//面向对象  私有、封装
+public class Day05_02 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
