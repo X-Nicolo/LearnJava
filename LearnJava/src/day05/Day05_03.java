@@ -38,7 +38,7 @@ package day05;
  	
 
 
-class Person//定义person类
+//class Person//定义person类
 {
 	private String name;//私有
 	private int age;
